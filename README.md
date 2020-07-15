@@ -1,7 +1,7 @@
 :beginner: Projetos Pessoais :beginner:
 
 `console.log("Starting at GIT in 2020")`
-<br>
+
 :clipboard: **Lista de tarefas :two: :zero: :two: :zero:**
 - [x] Aprender Git & GitHub
 - [ ] Aprender algoritmo
