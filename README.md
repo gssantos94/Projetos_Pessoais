@@ -1,4 +1,4 @@
-:beginner: # Projetos Pessoais :beginner:
+<h2>:beginner: Projetos Pessoais :beginner:</h2>
 
 `console.log("Starting at GIT in 2020")`
 
