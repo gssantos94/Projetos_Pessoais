@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.sh text eol=lf
+
+# Ignorar arquivos par exportação de reps.
+.gitattributes export-ignore
+.gitignore export-ignore
+readme.md export-ignore
+license export-ignore
