@@ -9,8 +9,6 @@
 - [ ] Escolher linguagem para estudo
 <br>
 
-:link: [Acesse meu Github: gssantos94](https://github.com/gssantos94)
-
-:link: [Contato Facebook](https://www.facebook.com/guzt.santos)
-
+:link: [Acesse meu Github: gssantos94](https://github.com/gssantos94)<br>
+:link: [Contato Facebook](https://www.facebook.com/guzt.santos)<br>
 :link: [Linkedin](www.linkedin.com/in/gs-santos)
