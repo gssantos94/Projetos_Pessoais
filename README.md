@@ -11,4 +11,4 @@
 
 :link: [Meu Github](https://github.com/gssantos94)<br>
 :link: [Contato Facebook](https://www.facebook.com/guzt.santos)<br>
-:link: [Contato Linkedin](www.linkedin.com/in/gs-santos)
+:link: [Contato Linkedin](https://www.linkedin.com/in/gs-santos)
