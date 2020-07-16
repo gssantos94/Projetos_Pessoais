@@ -1,6 +1,6 @@
-<h2>:beginner: Projetos Pessoais :beginner:</h2>
+<h2>:beginner: Bem vindos aos meus Repositórios :beginner:</h2>
 
-`console.log("Starting at GIT in 2020")`
+`console.log("In the long process of going from 0 to 1!")`
 
 :clipboard: **Lista de tarefas :two: :zero: :two: :zero:**
 - [x] Aprender Git & GitHub
