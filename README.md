@@ -4,9 +4,9 @@
 
 :clipboard: **Lista de tarefas :two: :zero: :two: :zero:**
 - [x] Aprender Git & GitHub
-- [ ] Aprender algoritmo
-- [ ] Aprender lógica de programação
-- [ ] Escolher linguagem para estudo
+- [x] Aprender algoritmo
+- [x] Aprender lógica de programação
+- [ ] Introdução em Dart
 <br>
 
 :link: [Meu Github](https://github.com/gssantos94)<br>
