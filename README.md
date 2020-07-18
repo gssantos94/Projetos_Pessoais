@@ -1,5 +1,5 @@
 ___
-<h2>:beginner: Bem vindos ao Hub :beginner:</h2>
+<h2>:beginner: Bem vindos ao meu Hub :beginner:</h2>
 
 `console.log("In the long process of going from 0 to 1!")`
 
