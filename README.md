@@ -3,11 +3,15 @@ ___
 
 `console.log("In the long process of going from 0 to 1!")`
 
-:clipboard: **Lista de tarefas :two: :zero: :two: :zero:**
+:clipboard: **Lista de tarefas :two: :zero: :two: :one:**
 - [x] Aprender Git & GitHub
 - [x] Aprender algoritmo
 - [x] Aprender lógica de programação
-- [ ] Introdução em Dart
+- [ ] Aprender Node.js
+- [ ] Aprender MongoDb
+- [ ] Aprender Express
+- [ ] Aprender Docker
+- [ ] Aprender TDD
 <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gssantos94)](https://github.com/gssantos94)
