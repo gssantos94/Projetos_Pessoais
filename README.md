@@ -7,9 +7,8 @@ ___
 - [x] Aprender Git & GitHub
 - [x] Aprender algoritmo
 - [x] Aprender lógica de programação
-- [ ] Aprender Node.js
-- [ ] Aprender MongoDb
-- [ ] Aprender Express
+- [ ] Aprender Python
+- [ ] Aprender Django
 - [ ] Aprender Docker
 - [ ] Aprender TDD
 <br>
