@@ -7,10 +7,11 @@ ___
 - [x] Aprender Git & GitHub
 - [x] Aprender algoritmo
 - [x] Aprender lógica de programação
-- [ ] Aprender Python
-- [ ] Aprender Django
+- [x] Aprender Python
+- [ ] Aprender Java
 - [ ] Aprender Docker
 - [ ] Aprender TDD
+- [x] Aprendendo Dev Web
 <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gssantos94)](https://github.com/gssantos94)
